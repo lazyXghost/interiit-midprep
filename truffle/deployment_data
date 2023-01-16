@@ -1,0 +1,27 @@
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_deploy.js
+===========
+
+   Deploying 'UserContract'
+   ------------------------
+   > transaction hash:    0x09a0f2589c2ef38cc357a089db38498718a202cf9696f597c4f96dc791c66ecc
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xbf251E2b4f3801d3b268AB42cd68548ee7B3D3cE
+   > block number:        1
+   > block timestamp:     1673866170
+   > account:             0x8E59921201A5F5294fc6eFA9054Efe852A70ec18
+   > balance:             99.9906564
+   > gas used:            467180 (0x720ec)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0093436 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.0093436 ETH
